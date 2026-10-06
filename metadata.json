@@ -1,0 +1,6 @@
+{
+  "name": "The Skill Gap",
+  "description": "Maps what students know against industry demand, calculates skill match percentage, highlights missing areas, and creates personalized learning roadmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

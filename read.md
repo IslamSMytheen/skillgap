@@ -2,6 +2,8 @@
 
 > **Bridge the distance between academic knowledge and real-world industry demand.**
 
+🌐 **Live Product**: [https://skillgap-jade.vercel.app](https://skillgap-jade.vercel.app)
+
 ---
 
 ## 📌 Description
